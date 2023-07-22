@@ -63,14 +63,11 @@ MPU6050   Arduino
 3. Search for "Adafruit MPU6050" in the Library Manager and install the "Adafruit MPU6050" library.
 4. To use this library, you also need to install the Adafruit Unified Sensor library and the Adafruit Bus IO Library.
 5. Open your Arduino IDE and go to Sketch > Include Library > Manage Libraries. The Library Manager should open.
-  Type “adafruit mpu6050” on the search box and install the library.
-Then, search for “Adafruit Unified Sensor”. Scroll all the way down to find the library and install it.
-
-Finally, search for “Adafruit Bus IO” and install it.
-
-7. Copy and paste the provided code (`mpu6050_sensor_readings.ino`) into a new Arduino sketch.
-8. Connect the MPU6050 sensor to the Arduino board as described in the hardware setup section.
-9. Upload the sketch to your Arduino board.
+6.Then, search for “Adafruit Unified Sensor”. Scroll all the way down to find the library and install it.
+7.Finally, search for “Adafruit Bus IO” and install it.
+8. Copy and paste the provided code (`mpu6050_sensor_readings.ino`) into a new Arduino sketch.
+9. Connect the MPU6050 sensor to the Arduino board as described in the hardware setup section.
+10. Upload the sketch to your Arduino board.
 
 ## Usage
 
