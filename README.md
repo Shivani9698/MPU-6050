@@ -77,20 +77,6 @@ MPU6050   Arduino
 4. Open the Serial Monitor by clicking on `Tools -> Serial Monitor` or pressing `Ctrl + Shift + M`.
 5. The Serial Monitor will display the real-time sensor data readings, including accelerometer (X, Y, Z), gyroscope (X, Y, Z), and temperature data.
 
-## Contributing
-
-Contributions to this project are welcome! If you find any issues or want to improve the code, please feel free to open an issue or submit a pull request. Follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Submit a pull request.
-
-Please ensure your pull request adheres to the following guidelines:
-- Follow the existing coding style and naming conventions.
-- Include appropriate comments in the code for better understanding.
-- Test your changes thoroughly.
 
 ## License
 
