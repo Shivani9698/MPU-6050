@@ -6,7 +6,7 @@
 
 ## Description
 
-This Arduino project reads accelerometer, gyroscope, and temperature data from the MPU6050 sensor and displays the readings on the serial monitor. The MPU6050 is a commonly used sensor module that combines a 3-axis gyroscope and a 3-axis accelerometer in a single package. This project demonstrates how to use the MPU6050 sensor to obtain real-time sensor data.
+This Arduino project reads accelerometer, gyroscope, and temperature data from the MPU6050 sensor and displays the readings on the serial monitor. The MPU6050 is a commonly used sensor module that combines a 3-axis gyroscope and a 3-axis accelerometer in a single package. This project demonstrates how to use the MPU6050 sensor to obtain real-time sensor data.The MPU-6050 IMU (Inertial Measurement Unit) is a 3-axis accelerometer and 3-axis gyroscope sensor. The accelerometer measures the gravitational acceleration and the gyroscope measures the rotational velocity. Additionally, this module also measures temperature. This sensor is ideal to determine the orientation of a moving object.
 
 ## Table of Contents
 
